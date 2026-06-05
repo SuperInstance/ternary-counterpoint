@@ -1,0 +1,7 @@
+[package]
+name = "ternary-counterpoint"
+version = "0.1.0"
+edition = "2021"
+description = "Species counterpoint in ternary music theory — consonance, dissonance, voice leading, and forbidden parallels"
+license = "MIT"
+[dependencies]
